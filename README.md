@@ -62,7 +62,7 @@ I am currently improving my skills in software development and learning modern t
 
 ## 📫 Contact
 - GitHub: https://github.com/m-zain-tahir
-- Email: your-email@example.com
+- Email: juttzain855@gmail.com
 
 ---
 
