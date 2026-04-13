@@ -1,16 +1,69 @@
-## Hi there 👋
+# Muhammad Zain Tahir 👋
 
-<!--
-**m-zain-tahir/m-zain-tahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student  
+💻 Aspiring Software Developer  
+🚀 Passionate about building real-world software systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+I am a Software Engineering student with interest in programming, databases, and system development.  
+I enjoy solving problems and building practical projects that simulate real-world systems.
+
+I am currently improving my skills in software development and learning modern technologies.
+
+---
+
+## 🛠 Skills
+
+### Programming Languages
+- C++
+- Basic JavaScript
+
+### Database
+- SQL (MySQL)
+
+### Networking
+- Cisco Packet Tracer
+- Basic Networking Concepts
+
+### Tools
+- Git & GitHub
+- Microsoft Office
+
+---
+
+## 📂 Projects
+
+### 🏥 Pharmacy Management System
+- Console-based system for managing medicines, stock, and sales
+- Focus on real-world pharmacy operations
+- Built using C++ and file handling / database concepts
+
+### 🩸 Blood Bank Management System
+- System to manage donors and blood availability
+- Handles donor records and blood requests
+- Built using C++ and database concepts
+
+### 🌐 Networking Project
+- Designed network topology using Cisco Packet Tracer
+- Implemented routing and switching concepts
+- Improved understanding of networking basics
+
+---
+
+## 🎯 Current Goals
+- Learning Web Development (HTML, CSS, JavaScript)
+- Improving problem-solving skills
+- Building industry-level projects
+- Preparing for software engineering internships
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/m-zain-tahir
+- Email: your-email@example.com
+
+---
+
+⭐ Always learning, improving, and building better software
